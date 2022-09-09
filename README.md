@@ -2,4 +2,4 @@
 
 Class Notes for each class will be posted to this repo. 
 
-- [/Sep-8](September 8 Class Notes)
+- [September 8 Class Notes](https://github.com/aria-mdr/Sep8-Class-Notes/tree/main/Sep-8)
