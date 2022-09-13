@@ -1,0 +1,7 @@
+As mentioned, here is the practise for today. below you can see a sample HTML page i want you to try and re-create. you notice this is very bland and doesnt have any cool styling. I want you to put your own spin on it and design it the way you want. give it a background, change the size, positioning, spacing anything you like.
+you can use the W3 school, and google to find the css properties you need to bring your idea to life. for example if you want a link to have a border, google “how to add border to link” and you will surely find answers there. If you cant find it anywhere, ask it here. please try to ask all your questions in this channel and answer your class mates questions if you can.
+As you work your way, please share your progress here. we want to learn from each other. if you see someone has done something cool and you want to try it, ask them :smile: (I will also be giving it a go :wink:)
+lastly, please keep all the Q&A in threads, this way we dont bombard each other with notifications (i expect a lot of conversations here :sunglasses:).
+to get the question and answer started, can anyone find how i made the image smaller? and moved it to the right? ill post the answer to this one tomorrow night so better hurry.
+
+![practise](/Sep-8/Screen%20Shot%202022-09-09%20at%201.14.28%20AM.png)
