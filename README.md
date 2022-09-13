@@ -4,6 +4,7 @@ Class Notes for each class will be posted to this repo.
 
 - [September 7 Class Notes](https://github.com/aria-mdr/Node-JS-Class-Notes/tree/main/Sep-7)
 - [September 8 Class Notes](https://github.com/aria-mdr/Sep8-Class-Notes/tree/main/Sep-8)
+- [September 12 Class Notes](https://github.com/aria-mdr/Sep8-Class-Notes/tree/main/Sep-12)
 
 ## Final Project Mile Stones 
 

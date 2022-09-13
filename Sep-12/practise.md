@@ -10,4 +10,4 @@ For those of you looking for more advanced topics, try to add a home page. this 
 
 If you are doing the advance section, make your home page your index page. then try to configure your 404 page so when user goes to any other paths they are shown the 404 page. 
 
-[sample page](/Sep-12/sample-page.png)
+![sample page](/Sep-12/sample-page.png)
