@@ -92,7 +92,7 @@
 
 #### Practice
 
-[Exercise 1](Sep-12/bootstrap/ex_1.md)
+[Exercise 1](bootstrap/ex_1.md)
 
 ## Layout
 
@@ -102,9 +102,9 @@
 
 #### Practice
 
-[Exercise 2](Sep-12/bootstrap/ex_2.md)
+[Exercise 2](bootstrap/ex_2.md)
 
-[Exercise 3](Sep-12/bootstrap/ex_3.md)
+[Exercise 3](bootstrap/ex_3.md)
 
 ## Content
 
@@ -114,7 +114,7 @@
 
 #### Practice
 
-[Exercise 4](Sep-12/bootstrap/ex_4.md)
+[Exercise 4](bootstrap/ex_4.md)
 
 ## Components
 
@@ -128,7 +128,7 @@
 
 #### Practice
 
-[Exercise 5](Sep-12/bootstrap/ex_5.md)
+[Exercise 5](bootstrap/ex_5.md)
 
 ### Navbar
 
@@ -136,7 +136,7 @@
 
 #### Practice
 
-[Exercise 6](Sep-12/bootstrap/ex_6.md)
+[Exercise 6](bootstrap/ex_6.md)
 
 ## Utilities
 
