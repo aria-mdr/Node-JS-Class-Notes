@@ -5,6 +5,10 @@ Class Notes for each class will be posted to this repo.
 - [September 7 Class Notes](https://github.com/aria-mdr/Node-JS-Class-Notes/tree/main/Sep-7)
 - [September 8 Class Notes](https://github.com/aria-mdr/Sep8-Class-Notes/tree/main/Sep-8)
 - [September 12 Class Notes](https://github.com/aria-mdr/Sep8-Class-Notes/tree/main/Sep-12)
+- [September 14 Class Notes](https://github.com/aria-mdr/Sep8-Class-Notes/tree/main/Sep-14)
+- [September 15 Class Notes](https://github.com/aria-mdr/Sep8-Class-Notes/tree/main/Sep-15)
+- [September 19 Class Notes](https://github.com/aria-mdr/Sep8-Class-Notes/tree/main/Sep-19)
+- [September 21 Class Notes](https://github.com/aria-mdr/Sep8-Class-Notes/tree/main/Sep-21)
 
 
 ## Course Material 
