@@ -6,6 +6,26 @@ Class Notes for each class will be posted to this repo.
 - [September 8 Class Notes](https://github.com/aria-mdr/Sep8-Class-Notes/tree/main/Sep-8)
 - [September 12 Class Notes](https://github.com/aria-mdr/Sep8-Class-Notes/tree/main/Sep-12)
 
+
+## Course Material 
+
+* [Introduction to Development](intro.md)
+  * `Let's get some of tools.`
+* [Internet](internet.md)
+  * `You've surfed the Internet but how does it work?`
+* [Our First Site](first-site.md)
+  * `A tutorial to say hello to the world`
+* [Git & Github](git.md)
+  * `git: Multiplayer Notepad`
+* [HTML](html.md)
+  * `Structuring the web`
+* [CSS](css.md)
+  * `.thumbs { vertical-align: top; }`
+* [Bootstrap](bootstrap.md)
+  * `Giving complex CSS the boot`
+* [JavaScript](javascript.md)
+  * `Promise you will enjoy this`
+
 ## Final Project Mile Stones 
 
 - Sep 19: At this point you should have thought about what you want your project to be. Contact TA/teacher and discussed it with them. This is just an idea and requirment is to check in and make sure your idea meets the requirements
