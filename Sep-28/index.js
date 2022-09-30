@@ -50,6 +50,7 @@ const teachers = [
 ]
 
 
+
 // create a teacher card element, append it to the teacher row
 const renderTeacher = (teacher) => {
     // create teacher element 

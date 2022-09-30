@@ -94,7 +94,7 @@ const productConstructor = (imageLinkParam, titleParam, descParam) => {
                 if (this.quantity === 0) {
                     console.log('disbale button')
                     const purchaseButton = event.target;
-                    purchaseButton.classList.add('disabled')
+                    purchaseButton.className = `${purchaseButton.className} disabled`
                 }
             } else {
                 console.error('we dont have stuff to sell')
