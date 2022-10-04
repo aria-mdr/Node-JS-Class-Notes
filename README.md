@@ -13,6 +13,7 @@ Class Notes for each class will be posted to this repo.
 - [September 26 Class Notes](https://github.com/aria-mdr/Sep8-Class-Notes/tree/main/Sep-26)
 - [September 28 Class Notes](https://github.com/aria-mdr/Sep8-Class-Notes/tree/main/Sep-28)
 - [September 29 Class Notes](https://github.com/aria-mdr/Sep8-Class-Notes/tree/main/Sep-29)
+- [October 3 Class Notes](https://github.com/aria-mdr/Sep8-Class-Notes/tree/main/Oct-3)
 
 
 ## Course Material 
