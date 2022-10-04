@@ -40,6 +40,8 @@ Class Notes for each class will be posted to this repo.
   * `Oh Node You Didn't`
 * [Building a Node.js site with Express](buildingsite.md)
   * `Express yourself`
+* [MongoDB & Mongoose](mongodb.md)
+  * `This franchise has NoSQL`
 
 ## Final Project Mile Stones 
 
