@@ -12,6 +12,7 @@ Class Notes for each class will be posted to this repo.
 - [September 22 Class Notes](https://github.com/aria-mdr/Sep8-Class-Notes/tree/main/Sep-22)
 - [September 26 Class Notes](https://github.com/aria-mdr/Sep8-Class-Notes/tree/main/Sep-26)
 - [September 28 Class Notes](https://github.com/aria-mdr/Sep8-Class-Notes/tree/main/Sep-28)
+- [September 29 Class Notes](https://github.com/aria-mdr/Sep8-Class-Notes/tree/main/Sep-29)
 
 
 ## Course Material 
@@ -32,6 +33,12 @@ Class Notes for each class will be posted to this repo.
   * `Giving complex CSS the boot`
 * [JavaScript](javascript.md)
   * `Promise you will enjoy this`
+* [Browser API](browserapi.md)
+  * `Protect and serve`
+* [Node.js](nodejs.md)
+  * `Oh Node You Didn't`
+* [Building a Node.js site with Express](buildingsite.md)
+  * `Express yourself`
 
 ## Final Project Mile Stones 
 
