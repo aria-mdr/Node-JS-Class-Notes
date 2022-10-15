@@ -1,0 +1,15 @@
+.homepage-container {
+    padding: 0;
+    height: 100vh;
+    background: url("./node_icon.jpeg") no-repeat;
+    background-size: auto;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.btn{
+    margin-top: 300%;
+}
