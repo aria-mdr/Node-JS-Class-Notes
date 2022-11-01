@@ -1,0 +1,8 @@
+.teacher-container{
+    margin-top: 20px;
+}
+
+/* do not make changes to shared/global css classes */
+.col-md-3{
+    margin-bottom: 10px;
+}

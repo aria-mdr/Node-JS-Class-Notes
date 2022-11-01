@@ -9,6 +9,11 @@ Class Notes for each class will be posted to this repo.
 - [September 15 Class Notes](https://github.com/aria-mdr/Sep8-Class-Notes/tree/main/Sep-15)
 - [September 19 Class Notes](https://github.com/aria-mdr/Sep8-Class-Notes/tree/main/Sep-19)
 - [September 21 Class Notes](https://github.com/aria-mdr/Sep8-Class-Notes/tree/main/Sep-21)
+- [September 22 Class Notes](https://github.com/aria-mdr/Sep8-Class-Notes/tree/main/Sep-22)
+- [September 26 Class Notes](https://github.com/aria-mdr/Sep8-Class-Notes/tree/main/Sep-26)
+- [September 28 Class Notes](https://github.com/aria-mdr/Sep8-Class-Notes/tree/main/Sep-28)
+- [September 29 Class Notes](https://github.com/aria-mdr/Sep8-Class-Notes/tree/main/Sep-29)
+- [October 3 Class Notes](https://github.com/aria-mdr/Sep8-Class-Notes/tree/main/Oct-3)
 
 
 ## Course Material 
@@ -29,11 +34,19 @@ Class Notes for each class will be posted to this repo.
   * `Giving complex CSS the boot`
 * [JavaScript](javascript.md)
   * `Promise you will enjoy this`
+* [Browser API](browserapi.md)
+  * `Protect and serve`
+* [Node.js](nodejs.md)
+  * `Oh Node You Didn't`
+* [Building a Node.js site with Express](buildingsite.md)
+  * `Express yourself`
+* [MongoDB & Mongoose](mongodb.md)
+  * `This franchise has NoSQL`
 
 ## Final Project Mile Stones 
 
 - Sep 19: At this point you should have thought about what you want your project to be. Contact TA/teacher and discussed it with them. This is just an idea and requirment is to check in and make sure your idea meets the requirements
--Sep 30: You should have started to think what your UI would look like. Draw your ideas and create a wire up what each page looks like. Submit these via email/slack. Drawing can be done with anything ( pen and paper, paint, Miro )
+- Sep 30: You should have started to think what your UI would look like. Draw your ideas and create a wire up what each page looks like. Submit these via email/slack. Drawing can be done with anything (pen and paper, paint, Miro)
 - Oct 10: You should have your idea ready, designs done, and have created the designs with HTML, CSS (or any other FE technologies if you know it)
 - Oct 14: Your project FE should be up on github and avilable for vieweing 
 - Oct 24: We now need to start thinking about functionality and how your project works. define what these functionalities are and think about how you can implement them. 
