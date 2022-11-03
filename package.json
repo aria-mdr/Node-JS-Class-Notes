@@ -1,0 +1,22 @@
+{
+  "name": "node-js-class-notes",
+  "version": "1.0.0",
+  "description": "Class Notes for each class will be posted to this repo.",
+  "main": "app.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aria-mdr/Node-JS-Class-Notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aria-mdr/Node-JS-Class-Notes/issues"
+  },
+  "homepage": "https://github.com/aria-mdr/Node-JS-Class-Notes#readme"
+}
